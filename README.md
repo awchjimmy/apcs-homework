@@ -38,5 +38,5 @@ APCS 資源
 ### 教材
 - [算法競賽入門經典](https://github.com/coderBi/book/blob/master/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89%20-%E5%88%98%E6%B1%9D%E4%BD%B3.pdf)
 - [Competitive Programming 2](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp2.pdf)
-- [分類題庫](https://uhunt.onlinejudge.org/id/141099)
+- [分類題庫](https://uhunt.onlinejudge.org/id/141099) 優先挑 Lev 0-Lev 3、題號 0-999
 - [程式解題系統](https://zerojudge.tw/)
