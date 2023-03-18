@@ -34,3 +34,6 @@ APCS 資源
 ### 說明
 - [分數範圍](https://apcs.csie.ntnu.edu.tw/index.php/info/grades/)
 - [作答系統說明](https://apcs.csie.ntnu.edu.tw/index.php/info/systemdescription/)
+
+### 教材
+- [算法競賽入門經典](https://github.com/coderBi/book/blob/master/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89%20-%E5%88%98%E6%B1%9D%E4%BD%B3.pdf)
