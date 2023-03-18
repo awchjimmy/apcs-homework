@@ -30,3 +30,6 @@ APCS 資源
   * 搜尋 (searching)
   * 貪心法則 (greedy method)
   * 動態規劃 (dynamic programming)
+
+### 分數範圍
+https://apcs.csie.ntnu.edu.tw/index.php/info/grades/
